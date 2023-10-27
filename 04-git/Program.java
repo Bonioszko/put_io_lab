@@ -1,6 +1,10 @@
 public class Main {
-    int x = 3;
-    int y = 2;
-    int j = 1;
+    int x = 0;
+    // kom
+    int y = 1;
+    // kom
+    int j = 3;
+    // kom
+
 }
 // komentarz
