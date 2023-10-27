@@ -1,9 +1,9 @@
 public class Main {
     int x = 0;
     // kom
-    int y = 1;
+    int y = 2;
     // kom
-    int j = 3;
+    int j = 0;
     // kom
 
 }
